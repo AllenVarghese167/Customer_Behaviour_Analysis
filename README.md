@@ -67,7 +67,9 @@ The SQL queries are included in the project as a separate `.sql` file.
 
 ## 📊 Power BI Dashboard
 
-Power BI was used to create an interactive dashboard based on the customer shopping data.
+Power BI was used to create an interactive dashboard based on the customer shopping data and Analysis done on SQL.
+
+Created Multiple DAX Measures for a detailed dashboard
 
 The dashboard allows the data to be explored through different visualizations, filters, and key metrics.
 
