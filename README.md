@@ -15,6 +15,7 @@ The project focuses on cleaning and preparing customer shopping data, performing
 * SQL / MySQL
 * Power BI
 * Excel
+* IBB Image Hosting
 
 ---
 
@@ -69,6 +70,8 @@ The SQL queries are included in the project as a separate `.sql` file.
 Power BI was used to create an interactive dashboard based on the customer shopping data.
 
 The dashboard allows the data to be explored through different visualizations, filters, and key metrics.
+
+Included an Interactive slice with Images hosted through ibb.
 
 The dashboard focuses on:
 
