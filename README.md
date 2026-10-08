@@ -106,6 +106,4 @@ The dashboard focuses on:
 
 **Allen Varghese**
 
-Computer Science Graduate | Aspiring Data Analyst
-
 **Skills:** Python | SQL | Power BI | Data Analysis | Machine Learning
